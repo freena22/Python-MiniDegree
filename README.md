@@ -1,5 +1,5 @@
 
-## This is for my Python MiniDegree Projects.
+## This is for my Python MiniDegree Learning Projects.
 
 - A Project-Based Approach to Becoming a Python Programming Expert
 
@@ -17,3 +17,4 @@ The Python Mini-Degree is a bundle of 12 courses, that go all the way from makin
 - Course 10: Build a Spam Detector AI with Text Classification
 - Course 11: Create a Handwriting Recognition AI with TensorFlow
 - Course 12: Deep Learning with Python
+
